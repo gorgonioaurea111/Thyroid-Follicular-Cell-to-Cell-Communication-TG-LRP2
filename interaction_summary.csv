@@ -1,0 +1,6 @@
+Interactor_A,Identifier_A,Interactor_B,Identifier_B,Interaction_Type,Source_Database,Evidence_Details,Status
+TG,P01266,LRP2,P98164,Ligand-Receptor / Endocytosis,OmniPath,Sourced from HPRD / LRdb / CellTalkDB,Curated Intercellular Interaction
+LRPAP1,P30533,LRP2,P98164,Receptor-Chaperone Binding,IntAct,Direct physical interaction (Biophysical assays),Validated Physical Interaction
+CUBN,O60494,LRP2,P98164,Co-Receptor Complex,STRING,Apical endocytic co-receptor complex,Functional Association
+TPO,P07202,TG,P01266,Enzymatic Iodination,STRING,Catalyzes precursor iodination for synthesis,Functional Association
+TSHR,P16473,TG,P01266,Upstream Regulation,STRING,TSH receptor driving overall TG processing rate,Functional Association
